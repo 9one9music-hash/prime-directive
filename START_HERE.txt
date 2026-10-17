@@ -1,0 +1,10 @@
+THE PRIME DIRECTIVE — ORACLE OF TWENTY
+
+1. Unzip this package.
+2. Open The_Prime_Directive.html in a web browser.
+3. Play the game offline; no account is needed.
+
+On Android, find the HTML in My Files and open with a browser or HTML viewer.
+Your journal entries are stored locally in your own browser, not shared with the file.
+
+Twenty Primes. Two Cycles. One Shared Universe.
